@@ -5,6 +5,8 @@ CashRegister app wrap as an app via cordova. This exercice has been done during 
 
 _Note: slight modifications adding ability to reset cash list_
 
+![Result](https://raw.githubusercontent.com/grabcode/ga-cashregister-app/master/montage.png)
+
 ###Install###
 
 0. Pull this repository
